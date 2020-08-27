@@ -26,6 +26,8 @@ public class SampleClass1 {
 		// line added in Branch 1
 
 		// new line from remote
+		System.out.println("sum is : ");
+		System.out.println(ClassA.sum(hellCount, yeahCount));
 	}
 
 }
